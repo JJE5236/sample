@@ -123,3 +123,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+!*/WEB-INF/lib/*
