@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="container">
-	<h1>인덱스페이지입니다.</h1>
+	<h1>인덱스페이지입니다</h1>
 </div>
 </body>
 </html>
